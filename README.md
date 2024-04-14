@@ -1,4 +1,4 @@
-### Hi there 👋
+### <center>Hi👋, I am Sneha Nej</center>
 
 <!--
 **snehanej/snehanej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
